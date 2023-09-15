@@ -83,6 +83,18 @@ repositories:
     type: git
     url: https://github.com/tier4/nebula.git
     version: main
+  sensor_component/external/awf_velodyne:
+    type: git
+    url: https://github.com/leo-drive/awf_velodyne.git
+    version: golf
+  sensor_component/external/rslidar/rslidar_msg:
+    type: git
+    url: https://github.com/RoboSense-LiDAR/rslidar_msg.git
+    version: fe8a95cb242bd294cc3d5e3422f2093fb49a56ee
+  sensor_component/external/rslidar/rslidar_sdk:
+    type: git
+    url: https://github.com/leo-drive/rslidar_sdk.git
+    version: 7c926301a4e3c1ed633da0c3e52d703a6b4c8af2
   sensor_component/external/transport_drivers:
     type: git
     url: https://github.com/MapIV/transport_drivers.git
